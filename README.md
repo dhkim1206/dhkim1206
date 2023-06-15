@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhkim1206&theme=tokyonight)](https://git.io/streak-stats)
 <img src="https://raw.githubusercontent.com/dhkim1206/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 <!-- [![DoHyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkim1206&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/dhkim1206/github-readme-stats) -->
 <!--
