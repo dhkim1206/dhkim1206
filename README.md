@@ -43,7 +43,7 @@
 <td align="center">2022.12 - 2022.12</td>
 <td align="center">Keimyung University</td>
 <td align="center">AI Training Hackathon</td>
-<td align="center"> Training a model for high accuracy with a limited number of parameters and layers. </td>
+<td align="center"> Training a model for high accuracy with a limited number of parameters & layers. </td>
 <td align="center">Encouragement Prize 🏆</td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@
 <td align="center">Hackers Ground Hackathon</td>
 <td align="center">Using Microsoft Azure to address local issues
 </td>
-<td align="center">Final 8 teams to advance to the Finals</td>
+<td align="center">Advancing to the finals as the final 8 teams</td>
 </tr>
 <tr>
 <td align="center">2023.07 - 2023.07</td>
