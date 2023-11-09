@@ -57,7 +57,7 @@
 <td align="center">2023.06.21 - 2023.06.23</td>
 <td align="center">Microsoft</td>
 <td align="center">Hackers Ground Hackathon</td>
-<td align="center">Using Microsoft Azure to address local issues
+<td align="center">Using Microsoft Azure to address local issues, Implementing CI/CD
 </td>
 <td align="center">Advancing to the finals as the final 8 teams</td>
 </tr>
