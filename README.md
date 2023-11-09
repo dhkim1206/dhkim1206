@@ -40,7 +40,7 @@
 <tr>
 <td align="center">2022.12 - 2022.12</td>
 <td align="center">Keimyung University</td>
-<td align="center">AI Training Hackathon (🏆️Encouragement Prize)</td>
+<td align="center">AI Training Hackathon (Encouragement Prize 🏆️)</td>
 </tr>
 <tr>
 <td align="center">2023.06 - 2021.06</td>
@@ -51,7 +51,7 @@
 <tr>
 <td align="center">2021.12.10</td>
 <td align="center">Korea StartUp Forum, Ministry of SMEs and StartUps </td>
-<td align="center">An e-commerce startup, needs to implement ideas to handle a surge in user orders during the Black Friday event (🏆️Megazone Cloud Prize)</td>
+<td align="center">Hackathon - An e-commerce startup, needs to implement ideas to handle a surge in user orders during the Black Friday event ( Megazone Cloud Prize 🏆️)</td>
 </tr>
 <tr>
 <td align="center">2023.09.01 - 2023.11.24 (-ing)</td>
