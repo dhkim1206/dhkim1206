@@ -12,7 +12,7 @@
 <tbody>
 <tr>
 <td align="center">2020.07 - 2020.08</td>
-<td align="center">NAVER Connect Foundation</td>
+<td align="center">Adventure Designn</td>
 <td align="center">Boost Coding Newbie Challenge 2020</td>
 </tr>
 <tr>
