@@ -51,7 +51,7 @@
 <td align="center">Microsoft</td>
 <td align="center">Hackers Ground Hackathon</td>
 <td align="center">Addressing local issues</td>
-<td align="center">8 out of 33 teams advanced to the finals.</td>
+<td align="center">8 out of 33 teams advanced to the Final.</td>
 </tr>
 <tr>
 <td align="center">2021.12.10</td>
