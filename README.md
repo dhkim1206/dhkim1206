@@ -42,13 +42,17 @@
 <td align="center">2022.12 - 2022.12</td>
   <td align="center">Keimyung University</td>
 <td align="center">AI Training Hackathon</td>
-<td align="center"> Encouragement Prize 🏆</td>
+<td align="center"> 
+  
+  Encouragement Prize 🏆</td>
 </tr>
 <tr>
 <td align="center">2023.06 - 2021.06</td>
 <td align="center">Microsoft</td>
 <td align="center">Hackers Ground Hackathon</td>
-<td align="center">Topic : Addressing local issues - 8 out of 33 teams advanced to the finals.
+<td align="center">Topic : Addressing local issues 
+  
+  - 8 out of 33 teams advanced to the finals.
 </td>
 </tr>
 <tr>
@@ -56,7 +60,8 @@
 <td align="center">Korea StartUp Forum, Ministry of SMEs and StartUps </td>
 <td align="center">Hackathon ( </td>
 <td align="center">Topic :  - An e-commerce startup, needs to implement ideas to handle a surge in user orders during the Black Friday event
- Megazone Cloud Prize 🏆️</td>
+ 
+  Megazone Cloud Prize 🏆️</td>
 </tr>
 </tbody>
 </table>
