@@ -54,6 +54,13 @@
 <td align="center">8 out of 33 teams advanced to the Final.</td>
 </tr>
 <tr>
+<td align="center">2023.07 - 2023.07</td>
+<td align="center">Keimyung University</td>
+<td align="center">MICRO-DEGREE EXPO</td>
+<td align="center">Developing 2D Game - Games Like Vampire Survivors</td>
+<td align="center">The Grand Prize🏆️</td>
+</tr>
+<tr>
 <td align="center">2023.08 - 2023.08</td>
 <td align="center">Korea StartUp Forum, Ministry of SMEs and StartUps </td>
 <td align="center">Hackathon</td>
