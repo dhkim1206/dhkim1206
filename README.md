@@ -15,14 +15,14 @@
 </thead>
 <tbody>
 <tr>
-<td align="center">DIGIST CCG LAB Cloud</td>
+<td align="center">DIGIST CCG LAB</td>
 <td align="center">2023.01.02 - 2023.02.28</td>
 <td align="center">Training Drone Detection(Student Intern)</td>
 </tr>
   <tr>
-<td align="center">MEDI.R Technology Cloud</td>
+<td align="center">MEDI.R Technology</td>
 <td align="center">2023.07.03 - 2023.08.28</td>
-<td align="center">Development of VDT Syndrome Prevention Program (Industry-Academia Collaboration Project) </td>
+<td align="center">Development of VDT Syndrome Prevention Program </td>
 </tr>
 </tbody>
 </table>
