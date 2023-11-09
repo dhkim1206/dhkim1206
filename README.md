@@ -60,6 +60,13 @@
 <td align="center">An e-commerce startup, needs to implement ideas to handle a surge in user orders during the Black Friday event </td>
 <td align="center">Megazone Cloud Prize 🏆️</td>
 </tr>
+<tr>
+<td align="center">2023.09.13 - 2024.04.02 (-ing)</td>
+<td align="center">Amazon Web Services </td>
+<td align="center">AWS Cloud School 3기</td>
+<td align="center">ing</td>
+<td align="center">ing</td>
+</tr>
 </tbody>
 </table>
 <br>
