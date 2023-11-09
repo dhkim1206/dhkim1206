@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div data-view-component="true" class="Layout-main">      <turbo-frame id="user-profile-frame" data-turbo-action="advance">
 
         <div class="" data-hpc="">
@@ -13,7 +11,7 @@
   <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
       <div class="text-mono text-small mb-3">
-        <a href="/Dayoung-Jung/Dayoung-Jung" class="no-underline Link--primary">Dayoung-Jung</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
+       2px;">/</span>README<span class="color-fg-muted">.md</span>
       </div>
 
     </div>
@@ -1099,21 +1097,3 @@
         </div>
       </turbo-frame>
 </div>
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhkim1206&theme=tokyonight)](https://git.io/streak-stats)
-<img src="https://raw.githubusercontent.com/dhkim1206/github-stats-transparent/output/generated/languages.svg" width="49.2%" /> -->
-<!-- [![DoHyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhkim1206&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/dhkim1206/github-readme-stats) -->
-<!--
-**dhkim1206/dhkim1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
