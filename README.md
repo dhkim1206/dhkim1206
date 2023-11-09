@@ -22,7 +22,7 @@
   <tr>
 <td align="center">MEDI.R Technology</td>
 <td align="center">2023.07.03 - 2023.08.28</td>
-<td align="center">Development of VDT Syndrome Prevention Program </td>
+<td align="center">Development of VDT Syndrome Prevention Program (Student Intern) </td>
 </tr>
 </tbody>
 </table>
