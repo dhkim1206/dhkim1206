@@ -35,25 +35,23 @@
 <th align="center">Organization</th>
 <th align="center">Title</th>
 <th align="center">Contents</th>
+<th align="center">Output</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center">2022.12 - 2022.12</td>
-  <td align="center">Keimyung University</td>
+<td align="center">Keimyung University</td>
 <td align="center">AI Training Hackathon</td>
-<td align="center"> 
-  
-  Encouragement Prize 🏆</td>
+<td align="center"> Training a model for high accuracy with a limited number of parameters and layers. </td>
+<td align="center">Encouragement Prize 🏆</td>
 </tr>
 <tr>
 <td align="center">2023.06 - 2021.06</td>
 <td align="center">Microsoft</td>
 <td align="center">Hackers Ground Hackathon</td>
-<td align="center">Topic : Addressing local issues 
-  
-  - 8 out of 33 teams advanced to the finals.
-</td>
+<td align="center">Topic : Addressing local issues</td>
+<td align="center">8 out of 33 teams advanced to the finals.</td>
 </tr>
 <tr>
 <td align="center">2021.12.10</td>
