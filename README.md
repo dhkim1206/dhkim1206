@@ -32,7 +32,7 @@
 <thead>
 <tr>
 <th align="center">Date</th>
-<th align="center">Organization</th>
+<th align="center">Title</th>
 <th align="center">Contents</th>
 </tr>
 </thead>
@@ -44,8 +44,8 @@
 </tr>
 <tr>
 <td align="center">2023.06 - 2021.06</td>
-<td align="center">Microsoft</td>
-<td align="center">Hackers Ground Hackathon 8 out of 33 teams advanced to the finals.
+<td align="center">Microsoft Hackathon </td>
+<td align="center">Addressing local issues - Hackers Ground Hackathon 8 out of 33 teams advanced to the finals.
 </td>
 </tr>
 <tr>
