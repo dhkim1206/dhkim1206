@@ -35,10 +35,17 @@
 <th align="center">Organization</th>
 <th align="center">Title</th>
 <th align="center">Contents</th>
-<th align="center">Output</th>
+<th align="center">Result</th>
 </tr>
 </thead>
 <tbody>
+<tr>
+<td align="center">2022.3 - 2022.6</td>
+<td align="center">Keimyung University</td>
+<td align="center">Adventure Design Project Competition</td>
+<td align="center"> Developing a line tracing algorithm & Rythm Game </td>
+<td align="center">Encouragement Prize 🏆</td>
+</tr>
 <tr>
 <td align="center">2022.12 - 2022.12</td>
 <td align="center">Keimyung University</td>
