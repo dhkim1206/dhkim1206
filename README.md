@@ -47,7 +47,7 @@
 <td align="center">Encouragement Prize 🏆</td>
 </tr>
 <tr>
-<td align="center">2023.06 - 2023.06</td>
+<td align="center">2023.06.21 - 2023.06.23</td>
 <td align="center">Microsoft</td>
 <td align="center">Hackers Ground Hackathon</td>
 <td align="center">Using Microsoft Azure to address local issues
@@ -62,7 +62,7 @@
 <td align="center">The Grand Prize🏆️</td>
 </tr>
 <tr>
-<td align="center">2023.08 - 2023.08</td>
+<td align="center">2023.08.29 - 2023.08.30</td>
 <td align="center">Korea StartUp Forum, Ministry of SMEs and StartUps </td>
 <td align="center">Hackathon</td>
 <td align="center">An e-commerce startup, needs to implement ideas to handle a surge in user orders during the Black Friday event </td>
