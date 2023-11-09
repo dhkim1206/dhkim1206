@@ -50,7 +50,8 @@
 <td align="center">2023.06 - 2023.06</td>
 <td align="center">Microsoft</td>
 <td align="center">Hackers Ground Hackathon</td>
-<td align="center">Addressing local issues</td>
+<td align="center">Using Microsoft Azure to address local issues
+</td>
 <td align="center">Final 8 teams to advance to the Finals</td>
 </tr>
 <tr>
