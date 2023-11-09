@@ -39,8 +39,8 @@
 <tbody>
 <tr>
 <td align="center">2022.12 - 2022.12</td>
-<td align="center">Keimyung University</td>
-<td align="center">AI Training Hackathon (Encouragement Prize 🏆️)</td>
+<td align="center">AI Training Hackathon</td>
+<td align="center"> Encouragement Prize 🏆</td>
 </tr>
 <tr>
 <td align="center">2023.06 - 2021.06</td>
