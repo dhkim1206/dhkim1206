@@ -32,6 +32,7 @@
 <thead>
 <tr>
 <th align="center">Date</th>
+<th align="center">Organization</th>
 <th align="center">Title</th>
 <th align="center">Contents</th>
 </tr>
@@ -39,6 +40,7 @@
 <tbody>
 <tr>
 <td align="center">2022.12 - 2022.12</td>
+  <td align="center">Keimyung University</td>
 <td align="center">AI Training Hackathon</td>
 <td align="center"> Encouragement Prize 🏆</td>
 </tr>
