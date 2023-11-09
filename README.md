@@ -1,7 +1,7 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><h3 id="user-content--who-am-i" dir="auto"><a class="heading-link" href="#-who-am-i">🙌 Who Am I<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
 <ul dir="auto">
 <li>I majored in Computer Engineering </li>
-<li>I’m interested in <strong>Cloud</strong> and <strong>DevOps</strong></li>
+<li>I’m interested in <strong>Container</strong> and <strong>DevOps</strong></li>
 </ul>
 <br>
 <h3 id="user-content-career" dir="auto"><a class="heading-link" href="#career">🔥&nbsp;Career<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h3>
@@ -17,7 +17,7 @@
 <tr>
 <td align="center">DIGIST CCG LAB</td>
 <td align="center">2023.01.02 - 2023.02.28</td>
-<td align="center">Training Drone Detection(Student Intern)</td>
+<td align="center">Training Drone Detection (Student Intern)</td>
 </tr>
   <tr>
 <td align="center">MEDI.R Technology</td>
@@ -38,34 +38,20 @@
 </thead>
 <tbody>
 <tr>
-<td align="center">2020.07 - 2020.08</td>
-<td align="center">NAVER Connect Foundation</td>
-<td align="center">Boost Coding Newbie Challenge 2020</td>
+<td align="center">2022.12 - 2022.12</td>
+<td align="center">Keimyung University</td>
+<td align="center">AI Training Hackathon (🏆️Encouragement Prize)</td>
 </tr>
 <tr>
-<td align="center">2021.07 - 2021.07</td>
-<td align="center">Kyung Hee Univ.</td>
-<td align="center">2021 AI education using coding-based Unity</td>
+<td align="center">2023.06 - 2021.06</td>
+<td align="center">Microsoft</td>
+<td align="center">Hackers Ground Hackathon 8 out of 33 teams advanced to the finals.
+</td>
 </tr>
 <tr>
 <td align="center">2021.12.10</td>
-<td align="center">Kyung Hee Univ.</td>
-<td align="center">SW Festival (인기상)</td>
-</tr>
-<tr>
-<td align="center">2022.07 - 2022.08</td>
-<td align="center">서울시 빅데이터 캠퍼스</td>
-<td align="center">2022 Big Data Campus Mentoring 3기</td>
-</tr>
-<tr>
-<td align="center">2022.09.15</td>
-<td align="center">Kyung Hee Univ.</td>
-<td align="center">Club Unity Competition (우수상)</td>
-</tr>
-<tr>
-<td align="center">2022.12.16</td>
-<td align="center">(사)한국경영과학회</td>
-<td align="center">DBI 2022 (최우수상)</td>
+<td align="center">Korea StartUp Forum, Ministry of SMEs and StartUps </td>
+<td align="center">An e-commerce startup, needs to implement ideas to handle a surge in user orders during the Black Friday event (🏆️Megazone Cloud Prize)</td>
 </tr>
 <tr>
 <td align="center">2023.09.01 - 2023.11.24 (-ing)</td>
