@@ -1,12 +1,4 @@
 <div data-view-component="true" class="Layout-main">      <turbo-frame id="user-profile-frame" data-turbo-action="advance">
-
-        <div class="" data-hpc="">
-          
-    
-
-
-
-
  
 <ul dir="auto">
 <li>I majored in Software Convergence (Data Science Track) at Kyung Hee University</li>
