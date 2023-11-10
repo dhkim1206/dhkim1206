@@ -21,12 +21,6 @@
 </tr>
 </thead>
 <tbody>
-  <div style="text-align: center;">
-      <a href="http://hits.dwyl.com/khw11044.github.io" target="_blank">
-        <img
-          src="http://hits.dwyl.com/khw11044githubio.svg">
-      </a>
-</div>
 <tr>
 <td align="center">DIGIST CCG LAB</td>
 <td align="center">2023.01.02 - 2023.02.28</td>
