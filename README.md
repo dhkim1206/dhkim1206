@@ -19,7 +19,7 @@
 <td align="center">2023.01.02 - 2023.02.28</td>
 <td align="center">Training Drone Detection (Student Intern)</td>
 </tr>
-  <tr>
+<tr>
 <td align="center">MEDI.R Technology</td>
 <td align="center">2023.07.03 - 2023.08.28</td>
 <td align="center">Development of VDT Syndrome Prevention Program (Student Intern) </td>
@@ -86,8 +86,10 @@
 </tbody>
 </table>
 
+<p>
 <p align="center">
 <a href="https://hits.seeyoufarm.com">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdhkim1206%2Fhit-counter&count_bg=%23555555&title_bg=%23C291F9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
 </a>
+</p>
 </p>
