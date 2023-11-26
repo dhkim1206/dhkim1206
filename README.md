@@ -15,7 +15,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="center">DIGIST CCG LAB</td>
+<td align="center">DGIST CCG LAB</td>
 <td align="center">2023.01.02 - 2023.02.28</td>
 <td align="center">Training Drone Detection (Student Intern)</td>
 </tr>
