@@ -73,7 +73,7 @@
 <td align="center">Korea StartUp Forum, Ministry of SMEs and StartUps </td>
 <td align="center">Hackathon</td>
 <td align="center">An e-commerce startup, needs to implement ideas to handle a surge in user orders during the Black Friday event </td>
-<td align="center">Megazone Cloud Prize 🏆️</td>
+<td align="center">Megazone Cloud Prize🏆️</td>
 </tr>
 <tr>
 <td align="center">2023.09 - 2024.04 (-ing)</td>
@@ -81,6 +81,14 @@
 <td align="center">AWS Cloud School 3rd Cohort</td>
 <td align="center">ing</td>
 <td align="center">ing</td>
+</tr>
+
+<tr>
+<td align="center">2023.09.01 - 2023.12.15(-ing)</td>
+<td align="center">Ministry of Science and ICT, National IT Industry Promotion Aqency, Daegu Digital Innovation Promotion Agency </td>
+<td align="center">Software Master's Program Industry-Academic Collaboration Project Outcome Symposium</td>
+<td align="center">Development of VDT Syndrome Prevention Program</td>
+<td align="center">excellence prize🏆️</td>
 </tr>
 
 </tbody>
