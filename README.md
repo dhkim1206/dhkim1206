@@ -75,6 +75,8 @@
 <td align="center">An e-commerce startup, needs to implement ideas to handle a surge in user orders during the Black Friday event </td>
 <td align="center">Megazone Cloud Prize🏆️</td>
 </tr>
+
+  
 <tr>
 <td align="center">2023.09 - 2024.04 (-ing)</td>
 <td align="center">Amazon Web Services </td>
@@ -84,8 +86,8 @@
 </tr>
 
 <tr>
-<td align="center">2023.09.01 - 2023.12.15(-ing)</td>
-<td align="center">Ministry of Science and ICT, National IT Industry Promotion Aqency, Daegu Digital Innovation Promotion Agency </td>
+<td align="center">2023.09.01 - 2023.12.15</td>
+<td align="center">MEDI.R Technology, Ministry of Science and ICT, National IT Industry Promotion Aqency, Daegu Digital Innovation Promotion Agency</td>
 <td align="center">Software Master's Program Industry-Academic Collaboration Project Outcome Symposium</td>
 <td align="center">Development of VDT Syndrome Prevention Program</td>
 <td align="center">Excellence Prize🏆️</td>
