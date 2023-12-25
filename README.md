@@ -88,7 +88,7 @@
 <td align="center">Ministry of Science and ICT, National IT Industry Promotion Aqency, Daegu Digital Innovation Promotion Agency </td>
 <td align="center">Software Master's Program Industry-Academic Collaboration Project Outcome Symposium</td>
 <td align="center">Development of VDT Syndrome Prevention Program</td>
-<td align="center">Excellence prize🏆️</td>
+<td align="center">Excellence Prize🏆️</td>
 </tr>
 
 </tbody>
