@@ -87,7 +87,7 @@
 
 <tr>
 <td align="center">2023.09.01 - 2023.12.15</td>
-<td align="center">MEDI.R Technology, <p>Ministry of Science and ICT, <p>National IT Industry Promotion Aqency,<p>Daegu Digital Innovation Promotion Agency</td>
+<td align="center">MEDI.R Technology<p>, <p>Ministry of Science and ICT, <p>National IT Industry Promotion Agency,<p>Daegu Digital Innovation Promotion Agency</td>
 <td align="center">Software Master's Program Industry-Academic Collaboration Project Outcome Symposium</td>
 <td align="center">Development of VDT Syndrome Prevention Program</td>
 <td align="center">Excellence Prize🏆️</td>
