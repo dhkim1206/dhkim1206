@@ -79,10 +79,10 @@
   
 <tr>
 <td align="center">2023.09 - 2024.04 (-ing)</td>
-<td align="center">Amazon Web Services </td>
+<td align="center">Amazon Web Services, RAPA </td>
 <td align="center">AWS Cloud School 3rd Cohort</td>
-<td align="center">ing</td>
-<td align="center">ing</td>
+<td align="center">Network, VM, Docker, Kubernetes, Cloud Architecture</td>
+<td align="center">Excellence in Project Award🏆️</td>
 </tr>
 
 <tr>
