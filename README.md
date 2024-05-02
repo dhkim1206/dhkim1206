@@ -82,7 +82,7 @@
 <td align="center">Amazon Web Services, Rapa </td>
 <td align="center">AWS Cloud School 3rd Cohort</td>
 <td align="center">Network, VM, Docker, Kubernetes, Cloud Architecture</td>
-<td align="center">Excellence in Project Award🏆️</td>
+<td align="center">Excellence Project Award🏆️</td>
 </tr>
 
 <tr>
